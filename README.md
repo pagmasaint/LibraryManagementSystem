@@ -1,4 +1,5 @@
 #Library Management System
+
 A simple web-based application to manage library books, users, and rentals using Java Spring Boot and MySQL.
 
 Getting Started
